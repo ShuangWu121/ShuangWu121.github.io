@@ -1,5 +1,5 @@
 ---
- layout: page
+ layout: home
  title: Post by Category
  permalink: /categoryview/
  sitemap: false
