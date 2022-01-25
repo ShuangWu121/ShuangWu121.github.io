@@ -49,21 +49,15 @@ article_header:
 
 <!-- See notes here about HTML blocks: https://kramdown.gettalong.org/syntax.html#html-blocks -->
 
-<img src="/pictures/shuang.JPG" alt="Kitten"
+<!--<img src="/pictures/shuang.JPG" alt="Kitten"
   title="A cute kitten" width="450" height="300" />
-### The official statement
+### The official statement -->
 
 <!-- ![](/pictures/shuang.JPG){: .align-right} -->
 
-I was born and raised in [Pitești](https://en.wikipedia.org/wiki/Pitesti), a small city in Romania, and moved to the US in 2008.
-I was always fascinated with computers: playing on them, fixing them & programming them.
-I like to read, write and talk about _ideas_.
-You can see some of my writing on [this website](/archive.html) and on [Decentralized Thoughts](https://decentralizedthoughts.github.io/about-alin).
+I am a PhD student at Department of Mathematical Sciences of Norwegian University of Science and Technologyin, Trondheim. My research is about applied cryptography, under the supervison of [Kristian Gjøsteen](https://www.ntnu.no/ansatte/kristian.gjosteen).  I am a memeber of [NTNU Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab) 
 
-I am currently a _Postdoctoral Researcher_ at [VMware Research](https://research.vmware.com).
-My broad [research interests](/papers.html) are in cryptography and its practical applications. 
-I am very interested in authenticated data structures, especially if based on more exotic primitives, such as [constant-sized polynomial commitments](/2020/05/06/kzg-polynomial-commitments.html). 
-In the past, I’ve worked on transparency logs, threshold cryptography, anonymous cryptocurrencies, scalable Byzantine Fault Tolerance (BFT) protocols, append-only logs on top of Bitcoin, and oblivious file systems.
+I am very interested in cryptographic protocols that are applied on blockchains, especially if based on zero-knowledge proofs.  In the past, I’ve worked on formal verifications (Tamarin).
 
 
 <script>
