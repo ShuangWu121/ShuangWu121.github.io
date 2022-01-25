@@ -12,7 +12,7 @@
         @include clickable($text-color-1, $twitter-color);
       }
       .weibo-button {
-        @include clickable($text-color-1, $weibo-color);
+        @include clickable($text-color-1, $linkedin-color);
       }
       .googlepluse-button {
         @include clickable($text-color-1, $google-plus-color);
