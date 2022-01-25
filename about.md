@@ -55,9 +55,9 @@ article_header:
 
 <!-- ![](/pictures/shuang.JPG){: .align-right} -->
 
-I am a PhD student at Department of Mathematical Sciences of Norwegian University of Science and Technologyin, Trondheim. My research is about applied cryptography, under the supervison of [Kristian Gjøsteen](https://www.ntnu.no/ansatte/kristian.gjosteen).  I am a memeber of [NTNU Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab) 
+I am a PhD student at Department of Mathematical Sciences of Norwegian University of Science and Technology, Trondheim. My research is about applied cryptography, under the supervison of [Kristian Gjøsteen](https://www.ntnu.no/ansatte/kristian.gjosteen).  I am a memeber of [NTNU Applied Cryptology Lab (NaCl)](https://www.ntnu.edu/iik/nacl-lab). 
 
-I am very interested in cryptographic protocols that are applied on blockchains, especially if based on zero-knowledge proofs.  In the past, I’ve worked on formal verifications (Tamarin).
+I am very interested in cryptographic protocols that are applied on blockchains, especially if based on zero-knowledge proofs. Also blockchain layer 2 scaling, privacy-preserving cryptocurrencies. In the past, I’ve worked on formal verifications (Tamarin).
 
 
 <script>
