@@ -9,7 +9,7 @@ header:
     url: /about.html
   
   - title: My Recipe
-    url: /index.html
+    url: /test/about.md
 
   - title: Work Diary
     url: /about.html
