@@ -3,6 +3,8 @@
  title: Post by Category
  permalink: /categoryview/
  sitemap: false
+# articles:
+#   excerpt_type: html
 ---
 
 <div>
