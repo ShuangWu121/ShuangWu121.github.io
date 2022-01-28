@@ -1,6 +1,6 @@
 header:
   - title: Research Blog
-    url: /researchblog.html
+    url: /index.html
 
   - title: Publications
     url: /papers.html
@@ -9,10 +9,10 @@ header:
     url: /about.html
   
   - title: My Recipe
-    url: /index.html
+    url: /food/index.html
 
   - title: Work Diary
-    url: /about.html
+    url: /researchblog.html
 
 docs-ResearchBlog:
   - title:      Research Blog
