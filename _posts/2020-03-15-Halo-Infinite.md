@@ -1,7 +1,6 @@
 ---
 date: 2021-03-15
-title: Halo Infinite: Recursive zk-SNARKs from any Additive Polynomial
-Commitment Scheme 
+title: Halo Infinite, Recursive zk-SNARKs from any Additive Polynomial Commitment Scheme 
 ---
 
 ### Interesting Points
